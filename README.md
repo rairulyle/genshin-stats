@@ -7,12 +7,6 @@ Automatically claims:
 
 [My stats](http://skullpluggery-gi.mygamesonline.org/)
 
-# ❗NOTICE❗
-
-Once heroku removes free tier at 28.11.2022 or sooner, then this branch will no longer be supported. It will be deleted and replaced by deta branch.
-
-Also deta branch is now in testing phase so it won't be that long (few days or weeks).
-
 [![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/HANDZCZ/genshin-stats/tree/deta)
 
 
