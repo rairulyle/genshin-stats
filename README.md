@@ -10,6 +10,12 @@ Automatically claims:
 [![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/HANDZCZ/genshin-stats/tree/deta)
 
 
+# ❗NOTICE❗
+
+Once heroku removes free tier at 28.11.2022 or sooner, then this branch will no longer be supported. It will be deleted and replaced by deta branch.
+
+Also deta branch is now in testing phase so it won't be that long (few days or weeks).
+
 # Setup
 
 You will need to have or create [Deta account](https://web.deta.sh/) and optionally some website hosting that supports php scripts.
